@@ -1,16 +1,42 @@
-### Hi there 👋
+## Hellow there! I'm Deny <img src="https://media.giphy.com/media/psEArC8GCwjzs5RYZQ/giphy.gif" width="28px">
 
-<!--
-**denyFh/denyFh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤵‍♂️ **About me**
 
-Here are some ideas to get you started:
+<p>A college student in computer science major at University of Jember. Third year in Uni 🏳️. Love to spoil my eyes ✨, so I usually look around both graphic designs or maybe a film and sometimes I create some poster or banner design for my friend in need 🌄, besides that I am passionate about web designing and developing 🔥. I'm still green on this field, but I hope my passion can lead me to have better understanding as a frontend learner 📝.</p>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✈️ **Connect with me**
+
+<a href="https://www.linkedin.com/in/denyfh/">
+  <img align="left" alt="Deny's Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<br><br><br>
+
+🧰 **Languages and Tools:**
+
+- Coding:<br>
+
+<code><img height="25" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></code>
+<code><img height="25" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
+
+- Designing:<br>
+
+<code><img height="25" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"></code>
+
+- Tools:<br>
+
+<code><img height="25" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></code>
+<br><br>
+
+
+📊 **Github Stats for nerds**
+
+[![Deny's GitHub stats](https://github-readme-stats.vercel.app/api?username=denyFh&show_icons=true&text_color=ffffff&title_color=ffffff&icon_color=24c6dc&bg_color=15,514a9d,4389A2,24c6dc)](https://github.com/denyFh/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denyFh&layout=compact&langs_count=8&text_color=4389A2&title_color=4389A2&hide_border=true&bg_color=ffffff)](https://github.com/denyFh/github-readme-stats)
