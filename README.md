@@ -2,7 +2,7 @@
 
 🤵‍♂️ **About me**
 
-<p>A college student in computer science major at University of Jember. Third year in Uni 🏳️. Love to spoil my eyes ✨, so I usually look around both graphic designs or maybe a film and sometimes I create some poster or banner design for my friend in need 🌄, besides that I am passionate about web designing and developing 🔥. I'm still green on this field, but I hope my passion can lead me to have better understanding as a frontend learner 📝.</p>
+<p>A Fresh Graduate student in computer science major at University of Jember. Love to spoil my eyes ✨, so I usually look around both graphic designs or maybe a film and sometimes I create some poster or banner design for my friend in need 🌄, besides that I am passionate about web designing and developing 🔥. I'm still green on this field, but I hope my passion can lead me to have better understanding as a frontend learner 📝.</p>
 <br>
 
 ✈️ **Connect with me**
