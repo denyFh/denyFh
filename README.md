@@ -2,7 +2,7 @@
 
 🤵‍♂️ **About me**
 
-<p>A Fresh Graduate student in computer science major at University of Jember. Love to spoil my eyes ✨, so I usually look around both graphic designs or maybe a film and sometimes I create some poster or banner design for my friend in need 🌄, besides that I am passionate about web designing and developing 🔥. I'm still green on this field, but I hope my passion can lead me to have better understanding as a frontend learner 📝.</p>
+<p>A Graduate student in computer science major. Love to spoil my eyes ✨ and passionate about web designing and developing 🔥 also hard learner 📝.</p>
 <br>
 
 ✈️ **Connect with me**
@@ -24,6 +24,11 @@
 <code><img height="25" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"></code>
 <code><img height="25" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></code>
+<code><img height="25" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></code>
+<code><img height="25" src="https://img.shields.io/badge/Go-00ADD8?logo=Go&style=for-the-badge&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"></code>
+<code><img height="25" src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&labelColor=4479A1&logoColor=FFF"></code>
+
 
 - Designing:<br>
 
