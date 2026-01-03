@@ -31,7 +31,6 @@ I enjoy exploring my hobbies.
 - ⚙️ Backend Services & APIs (Go, Laravel)
 - 🗄️ Database Design & Query Optimization (MySQL, PostgreSQL, SQL Server)
 - 🧩 Integration & Automation (REST APIs, workflows, n8n)
-- 🔐 Security & Performance Improvements
 
 ---
 
